@@ -28,7 +28,6 @@ Parameter: Tidak ada (None)
 Return Value: Tidak ada (None)
 Deskripsi: Menampilkan daftar opsi menu operasi matematika ke layar terminal.
 ## Hasil Pengujian
-## Hasil Pengujian
 
 | No | Fungsi / Latihan | Input / Test Case | Hasil yang Diharapkan | Hasil Aktual | Status |
 |---|---|---|---|---|---|
